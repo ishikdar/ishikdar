@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Al Imran Shikdar</h1>
-<h3 align="center">Jr. Software Quality Assurance (SQA) Engineer at orangetoolz.com</h3>
-
-- 🌱 I’m currently learning **SQA and Cyber Security Course at IT Training BD**
+<h3 align="center">Associate Software QA Engineer @ REVE Systems</h3>
 
 - 📫 How to reach me **shikder.imran@yahoo.com**
 
