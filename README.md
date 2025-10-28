@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Al Imran Shikdar</h1>
-<h3 align="center">Associate Software QA Engineer @ REVE Systems</h3>
+<h3 align="center">Software Engineer in Test @ Craftsmen</h3>
 
 - 📫 How to reach me **shikder.imran@yahoo.com**
 
